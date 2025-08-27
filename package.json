@@ -1,6 +1,6 @@
 {
   "name": "grok-self",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
   "main": "src/index.js",
   "scripts": {
